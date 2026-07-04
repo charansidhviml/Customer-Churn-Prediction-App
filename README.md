@@ -30,7 +30,7 @@ This project predicts whether a customer is likely to churn (leave the company) 
 - Model Serialization (Joblib)
 
 ## 🌐 Live Demo
-https://customer-churn-prediction-app-ffy4bx8hkjcywgsocs2asv.streamlit.app/
+https://customer-churn-prediction-app-bycharan.streamlit.app/
 
 ## 📂 Project Structure
 
