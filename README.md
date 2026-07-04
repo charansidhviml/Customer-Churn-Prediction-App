@@ -30,10 +30,7 @@ This project predicts whether a customer is likely to churn (leave the company) 
 - Model Serialization (Joblib)
 
 ## 🌐 Live Demo
-🔗 **Add your Streamlit app link here after deployment**
-
-Example:
-https://your-customer-churn-prediction.streamlit.app
+https://customer-churn-prediction-app-ffy4bx8hkjcywgsocs2asv.streamlit.app/
 
 ## 📂 Project Structure
 
@@ -44,25 +41,6 @@ Customer-Churn-Prediction/
 │── README.md
 └── Customer_Churn_Prediction.ipynb
 
-## ▶️ How to Run Locally
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Customer-Churn-Prediction.git
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Streamlit app
-
-```bash
-streamlit run app.py
-```
 
 ## 🎯 Features
 - Predict customer churn instantly
